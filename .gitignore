@@ -7,3 +7,4 @@ frontend/.env
 .next/
 dist/
 build/ 
+SYSTEM_DESIGN.md
