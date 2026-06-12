@@ -18,7 +18,7 @@
 Create a `.env` file inside the `backend` folder:
 
 ```env
-PORT=5000
+Use all the same credentials provided in .env file.
 ```
 
 ## Backend Setup
